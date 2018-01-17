@@ -368,4 +368,7 @@ footer{
 	.label1 {
 		width: 22rem;
 	}
+	.main_size input{
+		width: 12rem;
+	}
 }
