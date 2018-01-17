@@ -272,7 +272,7 @@ main{
 	display: flex;
 	flex-flow: wrap;
 	align-items: center;
-	height: 4rem;
+	height: 8rem;
 }
 .main_size label{
 	margin: 0 1rem;
@@ -363,4 +363,9 @@ footer{
 }
 .footer_a:hover {
 	color: #1d7ad9;
+}
+@media only screen and (max-width: 531px) {
+	.label1 {
+		width: 22rem;
+	}
 }
